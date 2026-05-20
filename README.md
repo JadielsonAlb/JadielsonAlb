@@ -1,4 +1,4 @@
-# 💫 About Me:
+# SOBRE MIM:
 🎓 Estudando Análise e Desenvolvimento de Sistemas na UNIBRA Recife<br>🎮 Sonho em trabalhar com desenvolvimento de jogos e criação de aplicativos<br>💻 Atualmente estudando desenvolvimento full stack, backend e <br>engines como Godot e RPGMAKER
 
 
